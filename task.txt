@@ -1,0 +1,11 @@
+1. take amount from user and elabrate into notes.
+3456
+500 - 6
+200 - 2
+100 - 0 
+50 - 1
+20 - 0
+10 - 0
+5 - 1
+2 - 0 
+1 - 1
